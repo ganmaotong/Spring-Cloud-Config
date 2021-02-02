@@ -6,7 +6,7 @@ spring:
     host: localhost
 spring:
   rabbitmq:
-    port: 5672
+    port: 5673
 spring:
   rabbitmq:
     username: guest
