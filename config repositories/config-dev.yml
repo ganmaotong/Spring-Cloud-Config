@@ -13,8 +13,5 @@ spring:
 spring:
   rabbitmq:
     password: guest
-spring:
-  xxx:
-    password: {cipher}AQAfR01jjjlsjERVbkSBCP5h62O12eSwy55ZFi8KJkPG8egADPCoRAQ/2ErmW75zlGbJOteCWfUvPfTOdhCfs7LYRKecs0vRkpNliPD8M/IJA9APcJDE8FjjUag/TdVezvPOqzxqGlW9Br7forOw2mty+eGHR/sRLMLvzHTAQx8f4shiqAItgYsIKsOAC+Hx6xK65lpJcbcXAum30CAR+llt6Fd88/+PkYWGSyTiqM11rR07AE0CU0hDC7uhzZdFgmGnZqrQ4HZPOnKSwmcgyHFHojuZ7/zW/8f5QFoYKJTTn46iXi2zOYVKn05TTCJvHs7/uROYt5Ccx6CFl5TTyVHyhcfZ9DjfcQ/w7KCW75Wpfbm7lDPsPIhW3+k3TTsIf+I=
 server:
   port: 8009
