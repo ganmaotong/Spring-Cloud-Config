@@ -1,6 +1,6 @@
 app:
   version: prod
-message: Spring Cloud Config Demo Prod
+message: Spring Cloud Config Demo Prod 222
 spring:
   rabbitmq:
     host: localhost
